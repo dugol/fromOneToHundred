@@ -21,7 +21,7 @@ public class Validation {
 	/**
 	 * this method is responsible for checking if a number is multiples of 5
 	 * @param number is the number to validate.
-	 * @return true if the number is multiples of 3, false in another case
+	 * @return true if the number is multiples of 5, false in another case
 	 */
 	public boolean checkFiveMultiplo(int number) {
 		if(number%5==0)return true;
